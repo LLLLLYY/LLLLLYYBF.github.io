@@ -12,7 +12,7 @@
 <li>在LLVM编译器中设置ARC为有效状态,就无需再次键入retian或者是release代码</li>
 <li>在Xcode4.2或以上版本</li>
 <li>使用LLVM编译器3.0或以上版本</li>
-<li>编译器选项中设置ARC为有效<br><a href="http://odnixe08n.bkt.clouddn.com/IMG_2912.jpg" target="_blank" rel="external">http://odnixe08n.bkt.clouddn.com/IMG_2912.jpg</a></li>
+<li>编译器选项中设置ARC为有效<br><img src="http://odnixe08n.bkt.clouddn.com/IMG_2912.jpg" alt="lyxblog"></li>
 </ul>
 </li>
 </ul>
