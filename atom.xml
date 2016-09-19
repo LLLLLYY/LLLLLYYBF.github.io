@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.lyxblog.com/"/>
-  <updated>2016-09-18T07:21:03.000Z</updated>
+  <updated>2016-09-19T04:01:05.000Z</updated>
   <id>http://www.lyxblog.com/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
@@ -15,7 +15,7 @@
     <link href="http://www.lyxblog.com/2016/08/17/ARC/"/>
     <id>http://www.lyxblog.com/2016/08/17/ARC/</id>
     <published>2016-08-17T05:49:45.000Z</published>
-    <updated>2016-09-18T07:21:03.000Z</updated>
+    <updated>2016-09-19T04:01:05.000Z</updated>
     
     <content type="html"><![CDATA[<p> 建立这个博客的初衷是记录,保存。让自己看着舒服,当然最好大家看着都舒服</p>
 <ul>
@@ -40,10 +40,45 @@
     
     </summary>
     
-      <category term="iOS编程" scheme="http://www.lyxblog.com/categories/iOS%E7%BC%96%E7%A8%8B/"/>
+      <category term="iOS" scheme="http://www.lyxblog.com/categories/iOS/"/>
     
     
       <category term="iOS-ARC" scheme="http://www.lyxblog.com/tags/iOS-ARC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>探究ARC底层实现&lt;上&gt;</title>
+    <link href="http://www.lyxblog.com/2016/08/17/swift/"/>
+    <id>http://www.lyxblog.com/2016/08/17/swift/</id>
+    <published>2016-08-17T05:49:45.000Z</published>
+    <updated>2016-09-19T04:02:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<p> 建立这个博客的初衷是记录,保存。让自己看着舒服,当然最好大家看着都舒服</p>
+<ul>
+<li>ARC<ul>
+<li>在LLVM编译器中设置ARC为有效状态,就无需再次键入retian或者是release代码</li>
+<li>在Xcode4.2或以上版本</li>
+<li>使用LLVM编译器3.0或以上版本</li>
+<li>编译器选项中设置ARC为有效<br><img src="http://odnixe08n.bkt.clouddn.com/IMG_2912.jpg" alt="lyxblog"></li>
+</ul>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 建立这个博客的初衷是记录,保存。让自己看着舒服,当然最好大家看着都舒服&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ARC&lt;ul&gt;
+&lt;li&gt;在LLVM编译器中设置ARC为有效状态,就无需再次键入retian或者是release代码&lt;/li&gt;
+&lt;li&gt;在Xcode4.2或以上版本&lt;/li&gt;
+
+    
+    </summary>
+    
+      <category term="Swift" scheme="http://www.lyxblog.com/categories/Swift/"/>
+    
     
   </entry>
   
