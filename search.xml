@@ -6,29 +6,13 @@
     <entry>
       <title><![CDATA[探究ARC底层实现<上>]]></title>
       <url>http://www.lyxblog.com/2016/08/17/ARC/</url>
-      <content type="html"><![CDATA[<p> 建立这个博客的初衷是记录,保存。让自己看着舒服,当然最好大家看着都舒服</p>
+      <content type="html"><![CDATA[<p>这篇文章我得慢慢写..</p>
 <ul>
 <li>ARC<ul>
 <li>在LLVM编译器中设置ARC为有效状态,就无需再次键入retian或者是release代码</li>
 <li>在Xcode4.2或以上版本</li>
 <li>使用LLVM编译器3.0或以上版本</li>
-<li>编译器选项中设置ARC为有效<br><img src="http://odnixe08n.bkt.clouddn.com/IMG_2912.jpg" alt="lyxblog"></li>
-</ul>
-</li>
-</ul>
-]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[探究ARC底层实现<上>]]></title>
-      <url>http://www.lyxblog.com/2016/08/17/swift/</url>
-      <content type="html"><![CDATA[<p> 建立这个博客的初衷是记录,保存。让自己看着舒服,当然最好大家看着都舒服</p>
-<ul>
-<li>ARC<ul>
-<li>在LLVM编译器中设置ARC为有效状态,就无需再次键入retian或者是release代码</li>
-<li>在Xcode4.2或以上版本</li>
-<li>使用LLVM编译器3.0或以上版本</li>
-<li>编译器选项中设置ARC为有效<br><img src="http://odnixe08n.bkt.clouddn.com/IMG_2912.jpg" alt="lyxblog"></li>
+<li>编译器选项中设置ARC为有效</li>
 </ul>
 </li>
 </ul>
