@@ -4,10 +4,9 @@
   
     
     <entry>
-      <title><![CDATA[探究ARC底层实现<上>]]></title>
+      <title><![CDATA[探究ARC<上>]]></title>
       <url>http://www.lyxblog.com/2016/08/17/ARC/</url>
-      <content type="html"><![CDATA[<p>这篇文章我得慢慢写..</p>
-<ul>
+      <content type="html"><![CDATA[<ul>
 <li>ARC<ul>
 <li>在LLVM编译器中设置ARC为有效状态,就无需再次键入retian或者是release代码</li>
 <li>在Xcode4.2或以上版本</li>
